@@ -1,0 +1,3243 @@
+[
+  {
+    "title": "Apple Investor Relations",
+    "url": "https://investor.apple.com/investor-relations/default.aspx",
+    "ticker": "AAPL",
+    "source": "investor_relations",
+    "id": 0
+  },
+  {
+    "title": "Apple Press Releases",
+    "url": "https://www.apple.com/newsroom/",
+    "ticker": "AAPL",
+    "source": "investor_relations",
+    "id": 1
+  },
+  {
+    "title": "Microsoft Investor Relations",
+    "url": "https://www.microsoft.com/en-us/investor",
+    "ticker": "MSFT",
+    "source": "investor_relations",
+    "id": 2
+  },
+  {
+    "title": "Microsoft Earnings Releases",
+    "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2025-q4/press-release-webcast",
+    "ticker": "MSFT",
+    "source": "investor_relations",
+    "id": 3
+  },
+  {
+    "title": "Alphabet Investor Relations",
+    "url": "https://abc.xyz/investor/",
+    "ticker": "GOOGL",
+    "source": "investor_relations",
+    "id": 4
+  },
+  {
+    "title": "Amazon Investor Relations",
+    "url": "https://ir.aboutamazon.com/",
+    "ticker": "AMZN",
+    "source": "investor_relations",
+    "id": 5
+  },
+  {
+    "title": "Meta Investor Relations",
+    "url": "https://investor.atmeta.com/",
+    "ticker": "META",
+    "source": "investor_relations",
+    "id": 6
+  },
+  {
+    "title": "NVIDIA Investor Relations",
+    "url": "https://investor.nvidia.com/home/default.aspx",
+    "ticker": "NVDA",
+    "source": "investor_relations",
+    "id": 7
+  },
+  {
+    "title": "Tesla Investor Relations",
+    "url": "https://ir.tesla.com/",
+    "ticker": "TSLA",
+    "source": "investor_relations",
+    "id": 8
+  },
+  {
+    "title": "Netflix Investor Relations",
+    "url": "https://ir.netflix.net/ir-overview/profile/default.aspx",
+    "ticker": "NFLX",
+    "source": "investor_relations",
+    "id": 9
+  },
+  {
+    "title": "AMD Investor Relations",
+    "url": "https://ir.amd.com/",
+    "ticker": "AMD",
+    "source": "investor_relations",
+    "id": 10
+  },
+  {
+    "title": "Intel Investor Relations",
+    "url": "https://www.intc.com/",
+    "ticker": "INTC",
+    "source": "investor_relations",
+    "id": 11
+  },
+  {
+    "title": "Salesforce Investor Relations",
+    "url": "https://investor.salesforce.com/",
+    "ticker": "CRM",
+    "source": "investor_relations",
+    "id": 12
+  },
+  {
+    "title": "Oracle Investor Relations",
+    "url": "https://investor.oracle.com/",
+    "ticker": "ORCL",
+    "source": "investor_relations",
+    "id": 13
+  },
+  {
+    "title": "Adobe Investor Relations",
+    "url": "https://www.adobe.com/investor-relations.html",
+    "ticker": "ADBE",
+    "source": "investor_relations",
+    "id": 14
+  },
+  {
+    "title": "JPMorgan Investor Relations",
+    "url": "https://www.jpmorganchase.com/ir",
+    "ticker": "JPM",
+    "source": "investor_relations",
+    "id": 15
+  },
+  {
+    "title": "Bank of America Investor Relations",
+    "url": "https://investor.bankofamerica.com/",
+    "ticker": "BAC",
+    "source": "investor_relations",
+    "id": 16
+  },
+  {
+    "title": "Goldman Sachs Investor Relations",
+    "url": "https://www.goldmansachs.com/investor-relations/",
+    "ticker": "GS",
+    "source": "investor_relations",
+    "id": 17
+  },
+  {
+    "title": "Visa Investor Relations",
+    "url": "https://investor.visa.com/",
+    "ticker": "V",
+    "source": "investor_relations",
+    "id": 18
+  },
+  {
+    "title": "Mastercard Investor Relations",
+    "url": "https://investor.mastercard.com/",
+    "ticker": "MA",
+    "source": "investor_relations",
+    "id": 19
+  },
+  {
+    "title": "Johnson & Johnson Investor Relations",
+    "url": "https://www.investor.jnj.com/",
+    "ticker": "JNJ",
+    "source": "investor_relations",
+    "id": 20
+  },
+  {
+    "title": "UnitedHealth Investor Relations",
+    "url": "https://www.unitedhealthgroup.com/investors.html",
+    "ticker": "UNH",
+    "source": "investor_relations",
+    "id": 21
+  },
+  {
+    "title": "Pfizer Investor Relations",
+    "url": "https://investors.pfizer.com/",
+    "ticker": "PFE",
+    "source": "investor_relations",
+    "id": 22
+  },
+  {
+    "title": "ExxonMobil Investor Relations",
+    "url": "https://investor.exxonmobil.com/",
+    "ticker": "XOM",
+    "source": "investor_relations",
+    "id": 23
+  },
+  {
+    "title": "Chevron Investor Relations",
+    "url": "https://www.chevron.com/investors",
+    "ticker": "CVX",
+    "source": "investor_relations",
+    "id": 24
+  },
+  {
+    "title": "Walmart Investor Relations",
+    "url": "https://stock.walmart.com/",
+    "ticker": "WMT",
+    "source": "investor_relations",
+    "id": 25
+  },
+  {
+    "title": "Costco Investor Relations",
+    "url": "https://investor.costco.com/",
+    "ticker": "COST",
+    "source": "investor_relations",
+    "id": 26
+  },
+  {
+    "title": "Home Depot Investor Relations",
+    "url": "https://ir.homedepot.com/",
+    "ticker": "HD",
+    "source": "investor_relations",
+    "id": 27
+  },
+  {
+    "title": "Nike Investor Relations",
+    "url": "https://investors.nike.com/",
+    "ticker": "NKE",
+    "source": "investor_relations",
+    "id": 28
+  },
+  {
+    "title": "Starbucks Investor Relations",
+    "url": "https://investor.starbucks.com/",
+    "ticker": "SBUX",
+    "source": "investor_relations",
+    "id": 29
+  },
+  {
+    "title": "McDonald's Investor Relations",
+    "url": "https://corporate.mcdonalds.com/corpmcd/investors.html",
+    "ticker": "MCD",
+    "source": "investor_relations",
+    "id": 30
+  },
+  {
+    "title": "Disney Investor Relations",
+    "url": "https://thewaltdisneycompany.com/investor-relations/",
+    "ticker": "DIS",
+    "source": "investor_relations",
+    "id": 31
+  },
+  {
+    "title": "Boeing Investor Relations",
+    "url": "https://investors.boeing.com/",
+    "ticker": "BA",
+    "source": "investor_relations",
+    "id": 32
+  },
+  {
+    "title": "Coca-Cola Investor Relations",
+    "url": "https://investors.coca-colacompany.com/",
+    "ticker": "KO",
+    "source": "investor_relations",
+    "id": 33
+  },
+  {
+    "title": "PepsiCo Investor Relations",
+    "url": "https://www.pepsico.com/investors",
+    "ticker": "PEP",
+    "source": "investor_relations",
+    "id": 34
+  },
+  {
+    "title": "Procter & Gamble Investor Relations",
+    "url": "https://www.pginvestor.com/",
+    "ticker": "PG",
+    "source": "investor_relations",
+    "id": 35
+  },
+  {
+    "title": "Broadcom Investor Relations",
+    "url": "https://investors.broadcom.com/",
+    "ticker": "AVGO",
+    "source": "investor_relations",
+    "id": 36
+  },
+  {
+    "title": "Cisco Investor Relations",
+    "url": "https://investor.cisco.com/",
+    "ticker": "CSCO",
+    "source": "investor_relations",
+    "id": 37
+  },
+  {
+    "title": "Qualcomm Investor Relations",
+    "url": "https://investor.qualcomm.com/",
+    "ticker": "QCOM",
+    "source": "investor_relations",
+    "id": 38
+  },
+  {
+    "title": "Berkshire Hathaway Reports",
+    "url": "https://www.berkshirehathaway.com/reports.html",
+    "ticker": "BRK.B",
+    "source": "investor_relations",
+    "id": 39
+  },
+  {
+    "title": "DEPH Labs Appoints Lisa Loud as CEO to Accelerate Privacy-Centric Precision Health and Biological Age Testing",
+    "url": "https://finance.yahoo.com/healthcare/articles/deph-labs-appoints-lisa-loud-193600730.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 40
+  },
+  {
+    "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-28-profits-hold-ride-183348079.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 41
+  },
+  {
+    "title": "Apple Stocks Test $1,999 Foldable Demand as iPhone Duo Arrives",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-test-1-999-181659335.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 42
+  },
+  {
+    "title": "Apple Stock Looks Ripe For A High-Risk, Short-Term Options Trade",
+    "url": "https://finance.yahoo.com/m/8701731b-ff0c-31b4-ba4c-ab9695d1e831/apple-stock-looks-ripe-for-a.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 43
+  },
+  {
+    "title": "Apple and Alphabet are sending Wall Street different signals",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-sending-wall-street-164700305.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 44
+  },
+  {
+    "title": "Apple's $2,000 Foldable iPhone Duo Hits Stores Amid Supply Crunch",
+    "url": "https://finance.yahoo.com/technology/articles/apples-2-000-foldable-iphone-162808619.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 45
+  },
+  {
+    "title": "Apple\u2019s iPhone Duo Is on Sale. Good Luck Buying One.",
+    "url": "https://finance.yahoo.com/m/a59be577-b06c-3819-bab2-bcf6f139f501/apple%E2%80%99s-iphone-duo-is-on.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 46
+  },
+  {
+    "title": "Apple Stock Hits Record High On iPhone Duo Launch",
+    "url": "https://finance.yahoo.com/m/95c2a3e8-9bef-31b5-aba5-dcbd20d0d990/apple-stock-hits-record-high.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 47
+  },
+  {
+    "title": "Apple is taking Wall Street's top spot back from Nvidia \u2014 for the fifth time",
+    "url": "https://finance.yahoo.com/markets/article/apple-is-taking-wall-streets-top-spot-back-from-nvidia--for-the-fifth-time-142810503.html",
+    "ticker": "AAPL",
+    "source": "yahoo_finance",
+    "id": 48
+  },
+  {
+    "title": "Post-it Notes maker 3M eyes AI gold rush in major Amazon deal",
+    "url": "https://finance.yahoo.com/technology/ai/articles/post-notes-maker-3m-eyes-193700619.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 49
+  },
+  {
+    "title": "Stock Market Today: Dow Sheds 600 Points As Oil Jumps; Samsara Breaks Out (Live Coverage)",
+    "url": "https://finance.yahoo.com/m/81c00f86-3a6b-31fa-a8aa-5d5650c74f9c/stock-market-today%3A-dow-sheds.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 50
+  },
+  {
+    "title": "Microsoft Poised for Largely In-Line Quarterly Earnings Amid Azure Strength, BofA Says",
+    "url": "https://finance.yahoo.com/technology/articles/microsoft-poised-largely-line-quarterly-184500345.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 51
+  },
+  {
+    "title": "Microsoft Stocks Face a Cloud-Margin Test in Wednesday's AI Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-face-cloud-margin-182338866.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 52
+  },
+  {
+    "title": "Strong Azure Growth and Cash Flow Discipline Strengthen Microsoft Corporation (MSFT)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/strong-azure-growth-cash-flow-174709214.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 53
+  },
+  {
+    "title": "Broyhill is Upgrading Quality in Software: Moving from Intuit (INTU) to Microsoft",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/broyhill-upgrading-quality-software-moving-171612040.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 54
+  },
+  {
+    "title": "Adobe Stock Has Been Under Pressure. Here\u2019s What Could Spark a Turnaround",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-stock-under-pressure-could-170015430.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 55
+  },
+  {
+    "title": "Nvidia Analyst Warns 45% of AI Data Center Capacity Planned for 2027 May Not Get Built",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-analyst-warns-45-ai-164708977.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 56
+  },
+  {
+    "title": "Nvidia Stock\u2019s 2 Critical Flaws and More Reasons an Analyst Says Sell",
+    "url": "https://finance.yahoo.com/m/9cdb41d6-a291-37eb-bff7-347d06660a9d/nvidia-stock%E2%80%99s-2-critical.html",
+    "ticker": "MSFT",
+    "source": "yahoo_finance",
+    "id": 57
+  },
+  {
+    "title": "Alphabet's Q3 Could Reframe Its AI Spending Story",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-q3-could-reframe-ai-184832137.html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 58
+  },
+  {
+    "title": "Alphabet Stocks Face Wednesday Earnings Test After 82% Cloud Revenue Growth",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-face-wednesday-earnings-182756390.html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 59
+  },
+  {
+    "title": "Alphabet (GOOGL): Investing Behind AI Demand and TPU Growth",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-investing-behind-ai-165149716.html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 60
+  },
+  {
+    "title": "Marvell Technology Faces a Multi-Front War Against Taiwan\u2019s Custom Silicon Ecosystem",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-faces-multi-front-164503344.html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 61
+  },
+  {
+    "title": "Berkshire Stock Is Hot Again. Is It Still a Bargain?",
+    "url": "https://finance.yahoo.com/m/8ba99ead-523f-30e0-bc56-070b9195e1d8/berkshire-stock-is-hot-again..html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 62
+  },
+  {
+    "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
+    "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-backers-reportedly-worth-ipo-160243752.html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 63
+  },
+  {
+    "title": "Reddit's Q3 DAU Pressure Offset by Strong Ad Trends, Wedbush Says",
+    "url": "https://finance.yahoo.com/media-advertising/articles/reddit-apos-q3-dau-pressure-160204616.html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 64
+  },
+  {
+    "title": "Should You Trim Or Add To Your Trade Desk Position Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/trim-add-trade-desk-position-155832114.html",
+    "ticker": "GOOGL",
+    "source": "yahoo_finance",
+    "id": 65
+  },
+  {
+    "title": "Amazon Stocks Edge Lower Ahead of Earnings After 37% AWS Revenue Growth",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-edge-lower-ahead-192507898.html",
+    "ticker": "AMZN",
+    "source": "yahoo_finance",
+    "id": 66
+  },
+  {
+    "title": "Amazon Ranks No. 1 Among Consumer Stocks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-ranks-no-1-among-192355015.html",
+    "ticker": "AMZN",
+    "source": "yahoo_finance",
+    "id": 67
+  },
+  {
+    "title": "Amazon Survived a 50% Crash. Here\u2019s What a $1,000 Investment Became",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-survived-50-crash-1-184504737.html",
+    "ticker": "AMZN",
+    "source": "yahoo_finance",
+    "id": 68
+  },
+  {
+    "title": "Amazon CEO Andy Jassy Says AI Inference Is Still 10 Times Too Expensive, Claims Amazon Chips Offer Answer",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-ceo-andy-jassy-says-182824730.html",
+    "ticker": "AMZN",
+    "source": "yahoo_finance",
+    "id": 69
+  },
+  {
+    "title": "The More Muse Grows, the More It\u2019s Going to Cost Meta",
+    "url": "https://finance.yahoo.com/m/498c87ce-38ca-31fd-b0f1-fa5c3e563bfa/the-more-muse-grows%2C-the-more.html",
+    "ticker": "AMZN",
+    "source": "yahoo_finance",
+    "id": 70
+  },
+  {
+    "title": "Walmart Launches AI Shopping Tools To Drive Customer Transactions",
+    "url": "https://finance.yahoo.com/technology/ai/articles/walmart-launches-ai-shopping-tools-170921674.html",
+    "ticker": "AMZN",
+    "source": "yahoo_finance",
+    "id": 71
+  },
+  {
+    "title": "Egan-Jones Recommends Ethan Allen Shareholders Vote FOR All Five DGB Nominees",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/egan-jones-recommends-ethan-allen-165800730.html",
+    "ticker": "AMZN",
+    "source": "yahoo_finance",
+    "id": 72
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq drop after sharp tech sell-off, oil prices rise",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 73
+  },
+  {
+    "title": "GE Vernova Stocks Edge Lower Before $176 Billion Backlog Checkpoint",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-edge-lower-184517115.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 74
+  },
+  {
+    "title": "Investing.com\u2019s stocks of the week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182933712.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 75
+  },
+  {
+    "title": "Meta Stocks Put AI Financing Behind a New Non-Voting Share Class",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stocks-put-ai-financing-181858557.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 76
+  },
+  {
+    "title": "Tech Company Bonds Stay Under Pressure Even as Stocks Stabilize",
+    "url": "https://finance.yahoo.com/m/0ab56f46-811b-3dd4-b344-72832cb4c74c/tech-company-bonds-stay-under.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 77
+  },
+  {
+    "title": "Arm Just Dropped 19% in a Month. Is It Time to Sell, or Load Up?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-just-dropped-19-month-180805992.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 78
+  },
+  {
+    "title": "Update: US Equity Indexes Mixed as Technology Attempts Recovery Amid Surging Crude Oil",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-technology-180315625.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 79
+  },
+  {
+    "title": "Dow, S&P 500 fall, tech steadies to end rocky week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-set-open-lower-130848087.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 80
+  },
+  {
+    "title": "Moderna, Meta, SpaceX, Bloom Energy, AT&T, and More Stocks That Explain Today\u2019s Market",
+    "url": "https://finance.yahoo.com/m/f96806d8-9583-3620-89cf-a7ccb8de8237/moderna%2C-meta%2C-spacex%2C-bloom.html",
+    "ticker": "META",
+    "source": "yahoo_finance",
+    "id": 81
+  },
+  {
+    "title": "Why Comfort Systems Plunged Today",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-comfort-systems-plunged-today-193930495.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 82
+  },
+  {
+    "title": "Intel Stock Has Moved an Average of 16% the Day After Its Last 3 Reports. Should You Buy Before the Next One?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-moved-average-16-193702188.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 83
+  },
+  {
+    "title": "Robinhood Is Quietly Building 13 Businesses at Once. Here's Why It Matters.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-quietly-building-13-businesses-190500370.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 84
+  },
+  {
+    "title": "Seaport Research Issues Stark Nvidia Warning on Nvidia Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/seaport-research-issues-stark-nvidia-190258077.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 85
+  },
+  {
+    "title": "Dell Stocks Rise 2.1% as New AI Systems Face a 2027 Delivery Test",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-rise-2-1-185057417.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 86
+  },
+  {
+    "title": "Prediction: Here's What a $5,000 Investment in Rivian Will Be Worth in 5 Years",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-185000816.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 87
+  },
+  {
+    "title": "SpaceX Burned More Than $9.9 Billion of Free Cash Flow in a Single Quarter. Here's How Long Its $85.7 Billion IPO War Chest Actually Lasts.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-burned-more-9-9-183500580.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 88
+  },
+  {
+    "title": "Procter & Gamble Has Raised Its Dividend for 70 Straight Years. Here's Why That Matters in a Sell-Off",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-raised-dividend-70-183000020.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 89
+  },
+  {
+    "title": "Nvidia Stocks Put AI-Factory Downtime in Minerva's Crosshairs",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stocks-put-ai-factory-182153293.html",
+    "ticker": "NVDA",
+    "source": "yahoo_finance",
+    "id": 90
+  },
+  {
+    "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He\u2019s Staying Out Of",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-filing-gives-elon-musk-193602724.html",
+    "ticker": "TSLA",
+    "source": "yahoo_finance",
+    "id": 91
+  },
+  {
+    "title": "Tesla Stocks Edge Lower as Refunds Blur the Margin Beat",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-edge-lower-refunds-190116360.html",
+    "ticker": "TSLA",
+    "source": "yahoo_finance",
+    "id": 92
+  },
+  {
+    "title": "Tesla Stock Drops as Cybertruck Exit Hits Australia and New Zealand",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-drops-cybertruck-exit-181801418.html",
+    "ticker": "TSLA",
+    "source": "yahoo_finance",
+    "id": 93
+  },
+  {
+    "title": "Sector Update: Tech Stocks Advance Friday Afternoon",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-advance-friday-174020772.html",
+    "ticker": "TSLA",
+    "source": "yahoo_finance",
+    "id": 94
+  },
+  {
+    "title": "Elon Musk Would Still Be 2.4X Richer Than Jeff Bezos After Gifting SpaceX Stock to American Kids",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-still-2-4x-173541854.html",
+    "ticker": "TSLA",
+    "source": "yahoo_finance",
+    "id": 95
+  },
+  {
+    "title": "Netflix Hits a 52-Week Low as Valuation Gets Cheaper",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-hits-52-week-low-185415270.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 96
+  },
+  {
+    "title": "Netflix Is Now Down 29% This Year: Is NFLX Stock Hopeless or Ready for a Rebound?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-now-down-29-nflx-184352679.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 97
+  },
+  {
+    "title": "Is Netflix Stock a Buy Near Its 52-Week Low?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-buy-near-52-165002129.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 98
+  },
+  {
+    "title": "\u2018I Watch Something on YouTube Every Day\u2019 but Netflix a \u2018Dormant Subscription,\u2019 Says Chamath Palihapitiya Underlining a Financial Lesson",
+    "url": "https://finance.yahoo.com/media-advertising/articles/watch-something-youtube-every-day-153017824.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 99
+  },
+  {
+    "title": "Norwegian downgraded, Skydance upgraded: Wall Street's top analyst calls",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiation-apple-downgrade-among-133025602.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 100
+  },
+  {
+    "title": "Netflix Has Lower FCF Guidance, Pushing Its Valuation Lower, But Is NFLX Too Cheap?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-lower-fcf-guidance-pushing-131501163.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 101
+  },
+  {
+    "title": "Can Netflix Stock Hold Margin Gains as Content Spending Keeps Growing?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-hold-margin-gains-130000447.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 102
+  },
+  {
+    "title": "Netflix Stock Tanks 5% as Revenue Growth Slows in Q3. How to Play NFLX Here.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-tanks-5-revenue-112546021.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 103
+  },
+  {
+    "title": "Netflix (NFLX) Stock Fair Value Falls After Cautious Q3 Analyst Revisions",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-stock-fair-value-111549076.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 104
+  },
+  {
+    "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-wall-street-wrap-analysts-093054327.html",
+    "ticker": "NFLX",
+    "source": "yahoo_finance",
+    "id": 105
+  },
+  {
+    "title": "AMD Stocks Gain as $620 Target Raises the Execution Bar",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-gain-620-target-192002347.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 106
+  },
+  {
+    "title": "Taiwan Semiconductor (TSMC) Posted Record Profit and the Stock Still Fell. Here's What the Market Is Worried About.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsmc-posted-record-173500999.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 107
+  },
+  {
+    "title": "TER vs. AMD: Which AI Component Supplier Stock Is the Better Buy?",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ter-vs-amd-ai-component-164400420.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 108
+  },
+  {
+    "title": "The AI Rout: Sorting CAPEX Fact From Fiction",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-rout-sorting-capex-fact-161000404.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 109
+  },
+  {
+    "title": "AMD or Broadcom: If I Could Only Own 1 AI Chip Stock Through 2030, Here's My Pick",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amd-broadcom-could-only-own-152000824.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 110
+  },
+  {
+    "title": "AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-price-prediction-one-150045130.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 111
+  },
+  {
+    "title": "Nasdaq Turns Green With Chip Stocks Rebounding",
+    "url": "https://finance.yahoo.com/m/06467ddf-4e9f-3f23-94b6-3cfc20c3bff0/nasdaq-turns-green-with-chip.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 112
+  },
+  {
+    "title": "Ignore Near-Term Friction: Nvidia\u2019s Unmatched Scale and CUDA Ecosystem Lock-In Make Every Pullback a Buying Opportunity for Years to Come",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ignore-near-term-friction-nvidia-144502444.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 113
+  },
+  {
+    "title": "MU vs. AMD: Which Stock Is the Better Value Option?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mu-vs-amd-stock-better-144002841.html",
+    "ticker": "AMD",
+    "source": "yahoo_finance",
+    "id": 114
+  },
+  {
+    "title": "Salesforce Stocks Decrease Over 2% as Braze Deal Sets a $5.66 Billion Hurdle",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stocks-decrease-over-2-184005560.html",
+    "ticker": "CRM",
+    "source": "yahoo_finance",
+    "id": 115
+  },
+  {
+    "title": "Adobe vs. Salesforce: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-vs-salesforce-technology-stock-165002286.html",
+    "ticker": "CRM",
+    "source": "yahoo_finance",
+    "id": 116
+  },
+  {
+    "title": "ServiceNow Gets a Major Wall Street Vote of Confidence Ahead of Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-gets-major-wall-street-164449127.html",
+    "ticker": "CRM",
+    "source": "yahoo_finance",
+    "id": 117
+  },
+  {
+    "title": "Arista Networks vs. Salesforce: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-salesforce-technology-155002298.html",
+    "ticker": "CRM",
+    "source": "yahoo_finance",
+    "id": 118
+  },
+  {
+    "title": "Why Braze Stock Soared This Week",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-braze-stock-soared-week-150901585.html",
+    "ticker": "CRM",
+    "source": "yahoo_finance",
+    "id": 119
+  },
+  {
+    "title": "California Wealth Tax Raises Stakes for Meta and Zuckerberg",
+    "url": "https://finance.yahoo.com/economy/policy/articles/california-wealth-tax-raises-stakes-142018248.html",
+    "ticker": "CRM",
+    "source": "yahoo_finance",
+    "id": 120
+  },
+  {
+    "title": "SCG Appoints NetSuite AI Pioneer Tim Dietrich as First Head of AI",
+    "url": "https://finance.yahoo.com/technology/ai/articles/scg-appoints-netsuite-ai-pioneer-140000623.html",
+    "ticker": "CRM",
+    "source": "yahoo_finance",
+    "id": 121
+  },
+  {
+    "title": "Oracle Stocks Edge Up as $1 Billion Backs AI Partners",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-edge-1-billion-191229503.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 122
+  },
+  {
+    "title": "Oracle Adds $1 Billion to Its AI Partner Push",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-adds-1-billion-ai-183137013.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 123
+  },
+  {
+    "title": "Bloom Energy Stock Sinks Despite Record Revenue and a Stellar Outlook. Is It Time to Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-sinks-despite-180353434.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 124
+  },
+  {
+    "title": "1 software stock worth your attention and 2 we brush off",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-worth-attention-172039072.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 125
+  },
+  {
+    "title": "Dan Ives Calls AI Sell-Off \u2018SaaS Apocalypse 2.0,\u2019 Says Oracle Is \u2018In The Toughest Spot\u2019",
+    "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-calls-ai-sell-135518486.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 126
+  },
+  {
+    "title": "Oracle vs. Alibaba: Which Cloud Stock Holds the Edge Right Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-vs-alibaba-cloud-stock-130200219.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 127
+  },
+  {
+    "title": "CoreWeave Has a $100 Billion AI Opportunity, but Investors Face One Big Question",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-100-billion-ai-opportunity-130058669.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 128
+  },
+  {
+    "title": "Prediction: Oracle Could Become a Much Bigger AI Winner Than Investors Expect",
+    "url": "https://finance.yahoo.com/technology/ai/articles/prediction-oracle-could-become-much-124545362.html",
+    "ticker": "ORCL",
+    "source": "yahoo_finance",
+    "id": 129
+  },
+  {
+    "title": "Adobe vs. CrowdStrike: Which Technology Stock Is a Better Buy in 2026?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-vs-crowdstrike-technology-stock-130956978.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 130
+  },
+  {
+    "title": "Can Salesforce Stock Hit $350?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-hit-350-090156654.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 131
+  },
+  {
+    "title": "'Big Short' Investor Michael Burry Bumps Up Substack Subscription Price, Flags 4 'Busted' Bear-Market Havens",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/big-short-investor-michael-burry-071646405.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 132
+  },
+  {
+    "title": "Adobe vs. Arista Networks: Which Tech Stock Is a Better Buy in 2026?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-vs-arista-networks-tech-015902543.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 133
+  },
+  {
+    "title": "Adobe And 2 Top Undervalued Tech Stocks",
+    "url": "https://finance.yahoo.com/technology/articles/adobe-2-top-undervalued-tech-231915610.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 134
+  },
+  {
+    "title": "Sam's Club makes major payment change for shoppers ahead of holidays",
+    "url": "https://finance.yahoo.com/small-business/articles/sams-club-makes-major-payment-201500991.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 135
+  },
+  {
+    "title": "Adobe (ADBE) Gains AI Momentum On A Narrative That Still Sees Value",
+    "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-gains-ai-momentum-151217277.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 136
+  },
+  {
+    "title": "Can Docusign Stock Get Back To Where It Was?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/docusign-stock-back-where-132615812.html",
+    "ticker": "ADBE",
+    "source": "yahoo_finance",
+    "id": 137
+  },
+  {
+    "title": "Cisco Stocks Rise 1.6% as Inference Blueprint Expands Its AI Revenue Test",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-rise-1-6-184646633.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 138
+  },
+  {
+    "title": "Should You Buy, Sell, or Hold TER Stock Before Q3 Earnings Release?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-ter-stock-164600241.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 139
+  },
+  {
+    "title": "What iShares MSCI USA Value Factor ETF (VLUE) Bought: Micron Leads on Oct. 21",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-msci-usa-value-factor-110542527.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 140
+  },
+  {
+    "title": "iShares MSCI USA Momentum Factor ETF (MTUM) Sells $9.8 Million More AMD on Wednesday",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-msci-usa-momentum-factor-110520902.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 141
+  },
+  {
+    "title": "Fortinet (FTNT) vs. CSCO and PANW: Can Its Hardware-Software Advantage Support Long-Term Growth?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-vs-csco-panw-204618488.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 142
+  },
+  {
+    "title": "Here's Why Cisco Systems (CSCO) Fell More Than Broader Market",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cisco-systems-csco-204502910.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 143
+  },
+  {
+    "title": "Is Ciena Stock Really Expensive?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-stock-really-expensive-193608990.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 144
+  },
+  {
+    "title": "Cisco Stocks Slip 3.15% as New Optics Targets AI Fabrics",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stocks-slip-3-15-183118627.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 145
+  },
+  {
+    "title": "Amazon Leads a Broader Wave of AI-Linked Job Cuts",
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-leads-broader-wave-ai-172809359.html",
+    "ticker": "CSCO",
+    "source": "yahoo_finance",
+    "id": 146
+  },
+  {
+    "title": "Broadcom Stocks Rise as Decade-Long VMware Deal Targets AI Workloads",
+    "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-stocks-rise-decade-long-190811487.html",
+    "ticker": "AVGO",
+    "source": "yahoo_finance",
+    "id": 147
+  },
+  {
+    "title": "3 Magnificent AI Chip Stocks That Could Help Set You Up for Life",
+    "url": "https://finance.yahoo.com/technology/ai/articles/3-magnificent-ai-chip-stocks-163500900.html",
+    "ticker": "AVGO",
+    "source": "yahoo_finance",
+    "id": 148
+  },
+  {
+    "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
+    "url": "https://finance.yahoo.com/technology/ai/articles/prediction-chip-stock-could-sleeper-140040802.html",
+    "ticker": "AVGO",
+    "source": "yahoo_finance",
+    "id": 149
+  },
+  {
+    "title": "This Company Behind the World\u2019s AI Chips Could Be a Huge Winner",
+    "url": "https://finance.yahoo.com/technology/ai/articles/company-behind-world-ai-chips-133026013.html",
+    "ticker": "AVGO",
+    "source": "yahoo_finance",
+    "id": 150
+  },
+  {
+    "title": "Same Playbook, Different Silicon: Broadcom Holds the Throne, Marvell Plays the AMD Challenger.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/same-playbook-different-silicon-broadcom-124558105.html",
+    "ticker": "AVGO",
+    "source": "yahoo_finance",
+    "id": 151
+  },
+  {
+    "title": "1 large-cap stock to keep an eye on and 2 we brush off",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-keep-172839639.html",
+    "ticker": "QCOM",
+    "source": "yahoo_finance",
+    "id": 152
+  },
+  {
+    "title": "As the U.S. Pulls Chip Making Back Home, the Toolmakers Win First",
+    "url": "https://finance.yahoo.com/technology/articles/u-pulls-chip-making-back-160500270.html",
+    "ticker": "QCOM",
+    "source": "yahoo_finance",
+    "id": 153
+  },
+  {
+    "title": "Arm Stock Has a Growth Opportunity That Extends Far Beyond Smartphones",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-growth-opportunity-extends-160038369.html",
+    "ticker": "QCOM",
+    "source": "yahoo_finance",
+    "id": 154
+  },
+  {
+    "title": "ETFs Are Buying Qualcomm (QCOM) on Oct. 21",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-qualcomm-qcom-oct-110101517.html",
+    "ticker": "QCOM",
+    "source": "yahoo_finance",
+    "id": 155
+  },
+  {
+    "title": "What Would It Take For Qualcomm Stock To Move Higher?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-move-higher-090200396.html",
+    "ticker": "QCOM",
+    "source": "yahoo_finance",
+    "id": 156
+  },
+  {
+    "title": "3 AI Stocks Under 27x P E",
+    "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-under-27x-031747981.html",
+    "ticker": "QCOM",
+    "source": "yahoo_finance",
+    "id": 157
+  },
+  {
+    "title": "Norwegian Cruise Faces New Warning on 2027 Recovery",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-faces-warning-2027-185446072.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 158
+  },
+  {
+    "title": "XRP News: Ripple Joined DTCC\u2019s Tokenization Push This Week. Can It Pull XRP Out of Its October Slide?",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-news-ripple-joined-dtcc-163345429.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 159
+  },
+  {
+    "title": "American Express Plans to Cut 5% of Global Jobs. The Stock Is Falling on Earnings.",
+    "url": "https://finance.yahoo.com/m/034c54fc-058c-3971-8718-1757f450ae05/american-express-plans-to-cut.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 160
+  },
+  {
+    "title": "Week\u2019s Best: JPMorgan Chase Teams Overseeing $18 Billion Go Indie",
+    "url": "https://finance.yahoo.com/m/5ec8a2ab-eb49-37c4-ba0b-5dbea8ac1d37/week%E2%80%99s-best%3A-jpmorgan-chase.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 161
+  },
+  {
+    "title": "China\u2019s Mid-Tier Emergence Threatens ASML Over the Next 3-5 Years",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/china-mid-tier-emergence-threatens-144528379.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 162
+  },
+  {
+    "title": "C's September Card Delinquencies Rise: Will This Impact Asset Quality?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cs-september-card-delinquencies-rise-124100715.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 163
+  },
+  {
+    "title": "Goldman's Equities Revenues Jump 72% Y/Y in Q3: Can Growth Sustain?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldmans-equities-revenues-jump-72-121100384.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 164
+  },
+  {
+    "title": "History Favors Stocks Post-Midterms, But Experts Say Fundamentals Matter More",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/history-favors-stocks-post-midterms-114829844.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 165
+  },
+  {
+    "title": "What State Street Fin. Sel. Sector SPDR (XLF) Sold: Berkshire Leads on Wednesday",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-fin-sel-sector-110442304.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 166
+  },
+  {
+    "title": "ETFs Are Net Sellers of JPMorgan Chase (JPM) on Oct. 21",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-jpmorgan-chase-110323074.html",
+    "ticker": "JPM",
+    "source": "yahoo_finance",
+    "id": 167
+  },
+  {
+    "title": "ASML (ENXTAM:ASML) Stock Fair Value Edges Higher After Mixed Analyst Revisions",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/asml-enxtam-asml-stock-fair-171217804.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 168
+  },
+  {
+    "title": "America\u2019s Second-Biggest Bank Says the Stock Market Is in the Midst of a Multibillion-Dollar Stampede",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/america-second-biggest-bank-says-161306772.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 169
+  },
+  {
+    "title": "Allegion's Volume Growth Could Drive Re-Rating as Recovery Builds, BofA Says",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/allegion-apos-volume-growth-could-151020079.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 170
+  },
+  {
+    "title": "Bank of America Sends Stark Warning on U.S. Stocks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-stark-warning-142203197.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 171
+  },
+  {
+    "title": "BofA names Meta a top AI idea, raises price target on stronger ad growth",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bofa-names-meta-top-ai-132953017.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 172
+  },
+  {
+    "title": "Bank of America Fell Harder Than Wells Fargo. Does That Make It the Better Dividend Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-fell-harder-wells-125003859.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 173
+  },
+  {
+    "title": "Bank of America Just Dropped 12% in a Month. Is It Time to Sell, or Load Up?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-just-dropped-12-124701898.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 174
+  },
+  {
+    "title": "BofA Names Preferred Picks Among European Chipmakers Ahead of Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-names-preferred-picks-among-124327227.html",
+    "ticker": "BAC",
+    "source": "yahoo_finance",
+    "id": 175
+  },
+  {
+    "title": "3 Big Numbers: What\u2019s ahead for energy drinks?",
+    "url": "https://finance.yahoo.com/energy/articles/3-big-numbers-ahead-energy-134739154.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 176
+  },
+  {
+    "title": "Gold Is Sliding Back Toward $4,000 as the Haven Trade Breaks",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/gold-sliding-back-toward-4-132256811.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 177
+  },
+  {
+    "title": "Transaction in Own Shares",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/transaction-own-shares-110600670.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 178
+  },
+  {
+    "title": "Best CD rates today, Friday, October 23, 2026: Earn up to 4.40% APY with multiple offers",
+    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-october-23-2026-earn-up-to-440-apy-with-multiple-offers-100000224.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 179
+  },
+  {
+    "title": "Hedge fund returns worsen this week as tech selloff deepens",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-returns-worsen-week-090101889.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 180
+  },
+  {
+    "title": "Goldman Sachs Posts an $18.7 Billion Quarter as Equities Revenue Jumps 72%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-posts-18-7-091418586.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 181
+  },
+  {
+    "title": "If I Could Only Buy 1 AI Stock in November After This Sell-Off, It Would Be This One.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-only-buy-1-ai-085000139.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 182
+  },
+  {
+    "title": "General Motors (GM) Stock Sees Modest Fair Value Cut As Analysts Trim Targets",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-stock-sees-071518006.html",
+    "ticker": "GS",
+    "source": "yahoo_finance",
+    "id": 183
+  },
+  {
+    "title": "Byline Bancorp Q3 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/byline-bancorp-q3-earnings-call-180452167.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 184
+  },
+  {
+    "title": "Has XRP Bottomed? We Asked Claude AI Where the Selling Stops",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-bottomed-asked-claude-ai-164101527.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 185
+  },
+  {
+    "title": "Citi gets nod from Beijing to set up a wholly owned securities company in China",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citi-gets-nod-beijing-set-152309875.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 186
+  },
+  {
+    "title": "Visa (V) Stock Could Be Near Fair Value Despite Its 105% Run",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-stock-could-near-141701363.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 187
+  },
+  {
+    "title": "American Express Falls 3% Despite Q3 Beat and Higher Profit Floor; Visa and Mastercard Slip",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-falls-3-despite-135102888.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 188
+  },
+  {
+    "title": "ETFs Are Net Sellers of Visa (V) on Oct. 21",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-visa-v-110316093.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 189
+  },
+  {
+    "title": "13 Press Releases You Need to See This Week",
+    "url": "https://finance.yahoo.com/media-advertising/articles/13-press-releases-see-week-100200968.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 190
+  },
+  {
+    "title": "Visa Partners Singapore Tourism Board to Strengthen Singapore's Global Destination Appeal",
+    "url": "https://finance.yahoo.com/media-advertising/articles/visa-partners-singapore-tourism-board-013000280.html",
+    "ticker": "V",
+    "source": "yahoo_finance",
+    "id": 191
+  },
+  {
+    "title": "Dashen Bank and ShebaMiles Launch Platinum Co-Branded Mastercard Debit Card to Unlock Premium Travel Benefits for Customers in Ethiopia",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/dashen-bank-shebamiles-launch-platinum-145300581.html",
+    "ticker": "MA",
+    "source": "yahoo_finance",
+    "id": 192
+  },
+  {
+    "title": "Fiserv Appoints Raj Seshadri to Board of Directors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-appoints-raj-seshadri-board-120000910.html",
+    "ticker": "MA",
+    "source": "yahoo_finance",
+    "id": 193
+  },
+  {
+    "title": "Mastercard to expand First-Party Trust across EMEA",
+    "url": "https://finance.yahoo.com/news/mastercard-expand-first-party-trust-113748673.html",
+    "ticker": "MA",
+    "source": "yahoo_finance",
+    "id": 194
+  },
+  {
+    "title": "Simplifying Cross-Border Payments: Nium CFO Andre Mancl, Live from Money 20/20 2026",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/simplifying-cross-border-payments-nium-232459588.html",
+    "ticker": "MA",
+    "source": "yahoo_finance",
+    "id": 195
+  },
+  {
+    "title": "Mastercard (MA) Introduced A Stablecoin Security API",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/mastercard-ma-introduced-stablecoin-security-211303977.html",
+    "ticker": "MA",
+    "source": "yahoo_finance",
+    "id": 196
+  },
+  {
+    "title": "Wells Fargo (WFC) Stock Could Be 34% Undervalued After AI Leadership Moves",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-wfc-stock-could-190823023.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 197
+  },
+  {
+    "title": "Wells Fargo consolidates leadership of consumer bank",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wells-fargo-consolidates-leadership-consumer-161745499.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 198
+  },
+  {
+    "title": "Wells Fargo Names Top Pick Ahead of Q3 Earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-names-top-pick-160959144.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 199
+  },
+  {
+    "title": "Wells Fargo Reshuffles Leadership as $50 Billion NII Target Holds",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-reshuffles-leadership-50-090744804.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 200
+  },
+  {
+    "title": "Wells Fargo Announces Kleber Santos to Lead Consumer Banking and Lending; Saul Van Beurden to Lead AI for the Company",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wells-fargo-announces-kleber-santos-200500454.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 201
+  },
+  {
+    "title": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/top-lodging-stocks-3q26-earnings-192143630.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 202
+  },
+  {
+    "title": "These 4 Big Banks Pay Similar Dividends. Their Balance Sheets Tell Another Story",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/4-big-banks-pay-similar-154532029.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 203
+  },
+  {
+    "title": "Sherwin-Williams, Wells Fargo, and 7 Other Stocks for a Good-Enough Economy",
+    "url": "https://finance.yahoo.com/m/1a1abf72-f7d6-37f1-b900-3c164d8222cd/sherwin-williams%2C-wells.html",
+    "ticker": "WFC",
+    "source": "yahoo_finance",
+    "id": 204
+  },
+  {
+    "title": "Citigroup Wins Regulatory Approval To Expand Onshore Securities Operations In China",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-wins-regulatory-approval-expand-165620342.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 205
+  },
+  {
+    "title": "Citi closes \u2018first-of-its-kind\u2019 $72M bond for biochar project",
+    "url": "https://finance.yahoo.com/markets/commodities/articles/citi-closes-first-kind-72m-163300821.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 206
+  },
+  {
+    "title": "VZ, TMUS, T Stocks Face Valuation Pressure From SpaceX Wireless Push But Tower Operators Stand To Gain, Says Citi",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vz-tmus-t-stocks-face-162900138.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 207
+  },
+  {
+    "title": "FRN Variable Rate Fix",
+    "url": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-154800940.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 208
+  },
+  {
+    "title": "FRN Variable Rate Fix",
+    "url": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-154400826.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 209
+  },
+  {
+    "title": "FRN Variable Rate Fix",
+    "url": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-154100628.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 210
+  },
+  {
+    "title": "Citi takes cautious approach on AI agent access",
+    "url": "https://finance.yahoo.com/technology/ai/articles/citi-takes-cautious-approach-ai-153153904.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 211
+  },
+  {
+    "title": "Texas Capital Hits Record Revenues in Q3: Can Growth Momentum Continue?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/texas-capital-hits-record-revenues-152000274.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 212
+  },
+  {
+    "title": "FRN Variable Rate Fix",
+    "url": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-152000164.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 213
+  },
+  {
+    "title": "MRNA Stock: Citi Questions Whether Melanoma Vaccine\u2019s Benefit Justifies Individualized Tumor Harvesting And Manufacturing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mrna-stock-citi-questions-whether-130416221.html",
+    "ticker": "C",
+    "source": "yahoo_finance",
+    "id": 214
+  },
+  {
+    "title": "Sector Update: Healthcare Stocks Decline Friday Afternoon",
+    "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-friday-175134104.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 215
+  },
+  {
+    "title": "Smith And Nephew Merger Talks With Johnson & Johnson Collapse Over Leadership Dispute",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/smith-nephew-merger-talks-johnson-170659240.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 216
+  },
+  {
+    "title": "European Stocks Close Lower in Friday Trading Amid Rising Oil Prices, 'Extraordinary Collapse' in UK Consumer Confidence",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-lower-friday-160259790.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 217
+  },
+  {
+    "title": "Correction: Update: Market Chatter: Johnson & Johnson Orthopedics, Smith & Nephew Merger Collapsed Over Leadership Dispute",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/correction-market-chatter-johnson-johnson-144157166.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 218
+  },
+  {
+    "title": "Johnson & Johnson (JNJ) Stock Gets Fair Value Bump On Mixed Analyst Target Changes",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-stock-gets-141329999.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 219
+  },
+  {
+    "title": "Is Abbott Stock About To Rebound?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/abbott-stock-rebound-131230089.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 220
+  },
+  {
+    "title": "J&J Stock Reclaims 50-Day SMA: Is it Time to Buy, Sell or Hold?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/j-j-stock-reclaims-50-123700676.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 221
+  },
+  {
+    "title": "Gilead spends $1.28bn on PepStar\u2019s potential Icotyde rival",
+    "url": "https://finance.yahoo.com/news/gilead-spends-1-28bn-pepstar-120727326.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 222
+  },
+  {
+    "title": "State Street Health Care SPDR (XLV) Sells $64.6 Million More Eli Lilly on Wednesday",
+    "url": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110436786.html",
+    "ticker": "JNJ",
+    "source": "yahoo_finance",
+    "id": 223
+  },
+  {
+    "title": "UnitedHealth Soars 11% in a Week After a Beat-and-Raise Quarter: \u201cDiscipline and Execution\u201d",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-soars-11-week-beat-175321799.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 224
+  },
+  {
+    "title": "Has Buying Cigna Stock At A High Paid Off?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buying-cigna-stock-high-paid-103504506.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 225
+  },
+  {
+    "title": "What Will Decide UnitedHealth Group Stock Over The Next Six Months?",
+    "url": "https://finance.yahoo.com/healthcare/articles/decide-unitedhealth-group-stock-over-082405036.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 226
+  },
+  {
+    "title": "UnitedHealth Climbs 9% Since Earnings as Optum Health Profit Surges to $735 Million",
+    "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-climbs-9-since-earnings-195648769.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 227
+  },
+  {
+    "title": "Update: UnitedHealth Sued by Aramark, Kraft, Others Over Claims Handling",
+    "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-sued-aramark-kraft-others-164125460.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 228
+  },
+  {
+    "title": "SCHD\u2019s Price May Be Soaring, but Its Dividend Isn\u2019t Keeping Up",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/schd-price-may-soaring-dividend-141045578.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 229
+  },
+  {
+    "title": "UnitedHealth Group Incorporated (UNH) is Attracting Investor Attention: Here is What You Should Know",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-incorporated-unh-attracting-120002905.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 230
+  },
+  {
+    "title": "UnitedHealthcare to Support Northeast Missouri Health Council Efforts to Sustain and Expand Rural Maternal Healthcare",
+    "url": "https://finance.yahoo.com/healthcare/articles/unitedhealthcare-support-northeast-missouri-health-120000604.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 231
+  },
+  {
+    "title": "State Street Health Care SPDR (XLV) Buys $19.9 Million More Lilly on Tuesday",
+    "url": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110502233.html",
+    "ticker": "UNH",
+    "source": "yahoo_finance",
+    "id": 232
+  },
+  {
+    "title": "U.S. Treasury Wants to Rein In Deals for Chinese Biotech and AI",
+    "url": "https://finance.yahoo.com/m/c63ddeb3-623b-344e-9c98-f468703faa4c/u.s.-treasury-wants-to-rein.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 233
+  },
+  {
+    "title": "Moderna Sinks 4% After 18% Plunge as Melanoma Vaccine Selloff Extends; Merck and Pfizer Slip",
+    "url": "https://finance.yahoo.com/healthcare/articles/moderna-sinks-4-18-plunge-131753932.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 234
+  },
+  {
+    "title": "What Sent Eli Lilly Stock Higher Over The Past Year?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sent-eli-lilly-stock-higher-101403667.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 235
+  },
+  {
+    "title": "Better Dividend Stock to Buy and Hold: Pfizer or Bristol Myers Squibb?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-buy-hold-100300262.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 236
+  },
+  {
+    "title": "How Much Downside Is Left In Moderna Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/much-downside-left-moderna-stock-080036462.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 237
+  },
+  {
+    "title": "What Higher Interest Rates Mean for Dividend Stocks Like AbbVie and Pfizer",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/higher-interest-rates-mean-dividend-002000638.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 238
+  },
+  {
+    "title": "Bristol Myers Squibb vs. Pfizer: Consistency vs. Scale in Revenue",
+    "url": "https://finance.yahoo.com/healthcare/articles/bristol-myers-squibb-vs-pfizer-214502244.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 239
+  },
+  {
+    "title": "Biohaven Stock Heads for Best Day in 3 Years as FDA Agrees to Review Drug Again",
+    "url": "https://finance.yahoo.com/m/b55999f1-07b3-34d0-aa86-0b7040b288b1/biohaven-stock-heads-for-best.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 240
+  },
+  {
+    "title": "Biohaven\u2019s previously rejected rare disease drug to get fresh FDA review",
+    "url": "https://finance.yahoo.com/healthcare/articles/biohaven-previously-rejected-rare-disease-162400617.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 241
+  },
+  {
+    "title": "Pfizer\u2019s High Dividend Yield May Be a Warning. Here\u2019s How Merck Compares",
+    "url": "https://finance.yahoo.com/healthcare/articles/pfizer-high-dividend-yield-may-161513694.html",
+    "ticker": "PFE",
+    "source": "yahoo_finance",
+    "id": 242
+  },
+  {
+    "title": "U.S. FDA Approves Subcutaneous Induction Regimen for AbbVie's SKYRIZI\u00ae (risankizumab-rzaa) for Adults With Moderately to Severely Active Crohn's Disease",
+    "url": "https://finance.yahoo.com/healthcare/articles/u-fda-approves-subcutaneous-induction-193300179.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 243
+  },
+  {
+    "title": "AbbVie\u2019s Dividend Survived Humira\u2019s Patent Cliff. Will Merck and Amgen\u2019s?",
+    "url": "https://finance.yahoo.com/healthcare/articles/abbvie-dividend-survived-humira-patent-191559328.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 244
+  },
+  {
+    "title": "Forget Chasing 7% Yields: These 5 Dividend Stocks Offer Something Different",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/forget-chasing-7-yields-5-174535191.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 245
+  },
+  {
+    "title": "BMY vs. ABBV: Which Pharma/Biotech Stock Offers More Upside Potential?",
+    "url": "https://finance.yahoo.com/healthcare/articles/bmy-vs-abbv-pharma-biotech-143600865.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 246
+  },
+  {
+    "title": "Global Dental Soft Tissue Wound Care Market Size, Share, and Forecast by Product, 2026-2032 | Plug, Tape, and Foam Demand to Drive 11.8% CAGR and a $390 Million Market",
+    "url": "https://finance.yahoo.com/healthcare/articles/global-dental-soft-tissue-wound-133600230.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 247
+  },
+  {
+    "title": "AbbVie (ABBV) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/abbvie-abbv-earnings-expected-grow-130008792.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 248
+  },
+  {
+    "title": "AbbVie\u2019s skin disease drug posts Phase III win as market competition heats up",
+    "url": "https://finance.yahoo.com/news/abbvie-skin-disease-drug-posts-113913056.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 249
+  },
+  {
+    "title": "ETFs Are Net Sellers of AbbVie (ABBV) on Oct. 21",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-abbvie-abbv-110306308.html",
+    "ticker": "ABBV",
+    "source": "yahoo_finance",
+    "id": 250
+  },
+  {
+    "title": "Iovance\u2019s Melanoma Therapy Shows Promising 4-Year Data \u2013 Retail Says Acquisition Imminent Before 2027-End",
+    "url": "https://finance.yahoo.com/healthcare/articles/iovance-melanoma-therapy-shows-promising-170414417.html",
+    "ticker": "MRK",
+    "source": "yahoo_finance",
+    "id": 251
+  },
+  {
+    "title": "Merck And Moderna Diverge On Cancer Vaccine Results. Do They Still Have A Viable Drug?",
+    "url": "https://finance.yahoo.com/m/4d15fe6c-42ce-3eea-8f72-8e7c8c7920c6/merck-and-moderna-diverge-on.html",
+    "ticker": "MRK",
+    "source": "yahoo_finance",
+    "id": 252
+  },
+  {
+    "title": "Moderna trims losses as investors digest melanoma vaccine trial data",
+    "url": "https://finance.yahoo.com/markets/stocks/article/moderna-trims-losses-as-investors-digest-melanoma-vaccine-trial-data-160638038.html",
+    "ticker": "MRK",
+    "source": "yahoo_finance",
+    "id": 253
+  },
+  {
+    "title": "Merck CEO Plays Down Cost Concerns Over Intismeran \u2014 \u2018We Don't See Cost As A Limit To Access\u2019",
+    "url": "https://finance.yahoo.com/healthcare/articles/merck-ceo-plays-down-cost-153359412.html",
+    "ticker": "MRK",
+    "source": "yahoo_finance",
+    "id": 254
+  },
+  {
+    "title": "MRNA Tanks as Positive Phase III Cancer Therapy Data Fails to Impress",
+    "url": "https://finance.yahoo.com/healthcare/articles/mrna-tanks-positive-phase-iii-150800605.html",
+    "ticker": "MRK",
+    "source": "yahoo_finance",
+    "id": 255
+  },
+  {
+    "title": "Moderna\u2019s Cancer-Vaccine Data Leak Spurs Panic Selling. Wall Street Wanted a Cure.",
+    "url": "https://finance.yahoo.com/m/2a199606-9e57-39fa-9284-295f44b30acf/moderna%E2%80%99s-cancer-vaccine-data.html",
+    "ticker": "MRK",
+    "source": "yahoo_finance",
+    "id": 256
+  },
+  {
+    "title": "Moderna Stock Plummets 18% After Cancer-Vaccine Data Leak",
+    "url": "https://finance.yahoo.com/m/ef263055-24e9-3612-9ffe-832cbb640acb/moderna-stock-plummets-18%25.html",
+    "ticker": "MRK",
+    "source": "yahoo_finance",
+    "id": 257
+  },
+  {
+    "title": "Goldman Sachs resets Eli Lilly 12-month stock price target before earnings",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-resets-eli-lilly-193700366.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 258
+  },
+  {
+    "title": "Eli Lilly Stocks Slip 1.7% Ahead of Earnings After 48% Revenue Growth",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-stocks-slip-1-192832664.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 259
+  },
+  {
+    "title": "Eli Lilly (LLY) Builds In Richmond As Fair Value Still Sits Higher",
+    "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-builds-richmond-181116184.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 260
+  },
+  {
+    "title": "JP Morgan Expects Emerging Market Weight Loss Drug Sales To Reach $22 Billion",
+    "url": "https://finance.yahoo.com/healthcare/articles/jp-morgan-expects-emerging-market-165959485.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 261
+  },
+  {
+    "title": "Polen Focus Growth Strategy Trims Eli Lilly and Company (LLY) While Maintaining Confidence in Its Outlook",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/polen-focus-growth-strategy-trims-150556189.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 262
+  },
+  {
+    "title": "IBD's 50 Most Sustainable Companies For 2026",
+    "url": "https://finance.yahoo.com/m/ba95e081-3b5e-3617-83c2-919cf7f4b0f4/ibd%27s-50-most-sustainable.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 263
+  },
+  {
+    "title": "IBD's Most Sustainable Companies Across Industry Categories",
+    "url": "https://finance.yahoo.com/m/d246ad5a-54dc-3ca9-afdb-3572f6d79661/ibd%27s-most-sustainable.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 264
+  },
+  {
+    "title": "Eli Lilly's Fast Growth Hasn't Slowed Its Progress As Sustainability Leader",
+    "url": "https://finance.yahoo.com/m/b4b4d4d0-0d84-3a6a-8c39-f57c522e66d1/eli-lilly%27s-fast-growth.html",
+    "ticker": "LLY",
+    "source": "yahoo_finance",
+    "id": 265
+  },
+  {
+    "title": "Chevron vs. ExxonMobil: Which Stock Has the Edge at 52-Week Highs?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-vs-exxonmobil-stock-edge-134300230.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 266
+  },
+  {
+    "title": "Exxon Mobil Holdings (XOM) Reports Next Week: Wall Street Expects Earnings Growth",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-holdings-xom-reports-130008430.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 267
+  },
+  {
+    "title": "Can Baker Hughes Keep Its Winning Streak Alive in Q3 Earnings?",
+    "url": "https://finance.yahoo.com/energy/articles/baker-hughes-keep-winning-streak-123900677.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 268
+  },
+  {
+    "title": "Should You Buy Venture Global Stock At This Price?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-venture-global-stock-price-080215139.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 269
+  },
+  {
+    "title": "Suncor Energy (TSX:SU) Is Facing A Supreme Court Climate Liability Case",
+    "url": "https://finance.yahoo.com/energy/articles/suncor-energy-tsx-su-facing-061252383.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 270
+  },
+  {
+    "title": "Michigan, Ohio Gas Prices Jump Again as Illinois Refinery Outage Ripples Through Midwest",
+    "url": "https://finance.yahoo.com/energy/articles/michigan-ohio-gas-prices-jump-225438175.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 271
+  },
+  {
+    "title": "ExxonMobil Stock And Oil Majors With The Most Riding On Crude Prices",
+    "url": "https://finance.yahoo.com/energy/articles/exxonmobil-stock-oil-majors-most-211031455.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 272
+  },
+  {
+    "title": "Sector Update: Energy",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-172604792.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 273
+  },
+  {
+    "title": "ExxonMobil Just Gained 12% in a Month and Chevron 11%: Take Profits, or Buy More?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-just-gained-12-month-160810637.html",
+    "ticker": "XOM",
+    "source": "yahoo_finance",
+    "id": 274
+  },
+  {
+    "title": "Market Chatter: Chevron Plans to Up Drilling Rigs in Argentina's El Trapial Block to 3 From 1",
+    "url": "https://finance.yahoo.com/energy/articles/market-chatter-chevron-plans-drilling-171605382.html",
+    "ticker": "CVX",
+    "source": "yahoo_finance",
+    "id": 275
+  },
+  {
+    "title": "Sector Update: Energy Stocks Rise Premarket Friday",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-premarket-132537831.html",
+    "ticker": "CVX",
+    "source": "yahoo_finance",
+    "id": 276
+  },
+  {
+    "title": "ONEOK And 2 Other Top Pipeline Stocks",
+    "url": "https://finance.yahoo.com/energy/articles/oneok-2-other-top-pipeline-131141617.html",
+    "ticker": "CVX",
+    "source": "yahoo_finance",
+    "id": 277
+  },
+  {
+    "title": "Chevron (CVX) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-earnings-expected-grow-130004941.html",
+    "ticker": "CVX",
+    "source": "yahoo_finance",
+    "id": 278
+  },
+  {
+    "title": "Market Chatter: Chevron Plans to Boost Argentina Oil Output With $13.8 Billion Investment",
+    "url": "https://finance.yahoo.com/energy/articles/market-chatter-chevron-plans-boost-110704799.html",
+    "ticker": "CVX",
+    "source": "yahoo_finance",
+    "id": 279
+  },
+  {
+    "title": "What SPDR Portfolio S&P 500 Value ETF (SPYV) Bought: Apple Leads on Wednesday",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-portfolio-p-500-value-110531373.html",
+    "ticker": "CVX",
+    "source": "yahoo_finance",
+    "id": 280
+  },
+  {
+    "title": "COP vs. WHD: Which Stock Should Value Investors Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cop-vs-whd-stock-value-144003052.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 281
+  },
+  {
+    "title": "SLB Q3 Earnings & Revenues Beat Estimates on Production Systems Growth",
+    "url": "https://finance.yahoo.com/energy/articles/slb-q3-earnings-revenues-beat-134500707.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 282
+  },
+  {
+    "title": "Are Oils-Energy Stocks Lagging  Calumet, Inc. (CLMT) This Year?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-calumet-124002508.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 283
+  },
+  {
+    "title": "KMI Q3 Earnings Beat Estimates on Natural Gas Pipeline Strength",
+    "url": "https://finance.yahoo.com/energy/articles/kmi-q3-earnings-beat-estimates-143200616.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 284
+  },
+  {
+    "title": "ConocoPhillips (COP) Is a Trending Stock: Facts to Know Before Betting on It",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-cop-trending-stock-facts-120003541.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 285
+  },
+  {
+    "title": "What State Street Energy Select Sector SPDR ETF (XLE) Bought: Exxon Leads on Tuesday",
+    "url": "https://finance.yahoo.com/energy/articles/state-street-energy-select-sector-110437639.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 286
+  },
+  {
+    "title": "Is Exxon Mobil's Next Big Thing Already Here?",
+    "url": "https://finance.yahoo.com/energy/articles/exxon-mobils-next-big-thing-004809263.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 287
+  },
+  {
+    "title": "10 S&P 500 Stocks Seeing The Biggest Estimate Hikes Ahead Of Earnings",
+    "url": "https://finance.yahoo.com/m/be2350b1-4088-3d38-9714-6aefbda0d087/10-s%26p-500-stocks-seeing-the.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 288
+  },
+  {
+    "title": "Can ExxonMobil Strengthen Its Long-Term Upstream Production Capacity?",
+    "url": "https://finance.yahoo.com/energy/articles/exxonmobil-strengthen-long-term-upstream-123000254.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 289
+  },
+  {
+    "title": "What State Street Energy SPDR (XLE) Bought: Exxon Mobil Leads on Oct. 19",
+    "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110444973.html",
+    "ticker": "COP",
+    "source": "yahoo_finance",
+    "id": 290
+  },
+  {
+    "title": "Is Kroger Stock Increasing Your Market Risk?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kroger-stock-increasing-market-risk-142536871.html",
+    "ticker": "WMT",
+    "source": "yahoo_finance",
+    "id": 291
+  },
+  {
+    "title": "Walmart Is Having Its Best Month Since 1999, and Is 4% From $1 Trillion",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-having-best-month-since-134058825.html",
+    "ticker": "WMT",
+    "source": "yahoo_finance",
+    "id": 292
+  },
+  {
+    "title": "Avantis U.S. Large Cap Value ETF (AVLV) Adds Walmart and Newmont on Wednesday",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110405740.html",
+    "ticker": "WMT",
+    "source": "yahoo_finance",
+    "id": 293
+  },
+  {
+    "title": "The S&P 500 May Depend on the Fortunes of These 3 Companies Right Now. Here\u2019s the Good News and the Bad News for Investors.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-may-depend-fortunes-082202560.html",
+    "ticker": "WMT",
+    "source": "yahoo_finance",
+    "id": 294
+  },
+  {
+    "title": "What Could Go Wrong With Amazon Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-amazon-stock-080048895.html",
+    "ticker": "WMT",
+    "source": "yahoo_finance",
+    "id": 295
+  },
+  {
+    "title": "Is Walmart (WMT) Getting Too Expensive on Earnings?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-getting-too-expensive-031423329.html",
+    "ticker": "WMT",
+    "source": "yahoo_finance",
+    "id": 296
+  },
+  {
+    "title": "Kimberly-Clark vs. Coca-Cola: Which Dividend Stock Is the Better Buy Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-vs-coca-cola-011502139.html",
+    "ticker": "WMT",
+    "source": "yahoo_finance",
+    "id": 297
+  },
+  {
+    "title": "REJURAN\u00ae COSMETICS Expands U.S. Retail Presence Through Costco's First-Ever Beauty Table Program",
+    "url": "https://finance.yahoo.com/healthcare/articles/rejuran-cosmetics-expands-u-retail-160700059.html",
+    "ticker": "COST",
+    "source": "yahoo_finance",
+    "id": 298
+  },
+  {
+    "title": "Is Costco (COST) a Buy as Wall Street Analysts Look Optimistic?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-buy-wall-street-123003943.html",
+    "ticker": "COST",
+    "source": "yahoo_finance",
+    "id": 299
+  },
+  {
+    "title": "Costco reveals which members spend the most money",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/costco-reveals-members-spend-most-210300087.html",
+    "ticker": "COST",
+    "source": "yahoo_finance",
+    "id": 300
+  },
+  {
+    "title": "Costco (COST) Advances While Market Declines: Some Information for Investors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-advances-while-market-204503810.html",
+    "ticker": "COST",
+    "source": "yahoo_finance",
+    "id": 301
+  },
+  {
+    "title": "Coca-Cola Joins Costco in the $400 Billion Club. I Predict Only 1 of These Dividend Stocks Will Surpass $1 Trillion by 2036.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-joins-costco-400-202500326.html",
+    "ticker": "COST",
+    "source": "yahoo_finance",
+    "id": 302
+  },
+  {
+    "title": "Kroger Is Spending $5 Billion to Cut Prices. Walmart and Costco Are the Target",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kroger-spending-5-billion-cut-194527523.html",
+    "ticker": "COST",
+    "source": "yahoo_finance",
+    "id": 303
+  },
+  {
+    "title": "Costco Turned $1,000 Into $8,018 in Ten Years While the S&P 500 Delivered $3,564",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/costco-turned-1-000-8-194514744.html",
+    "ticker": "COST",
+    "source": "yahoo_finance",
+    "id": 304
+  },
+  {
+    "title": "Target Corporation (TGT) Is a Trending Stock: Facts to Know Before Betting on It",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/target-corporation-tgt-trending-stock-120003280.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 305
+  },
+  {
+    "title": "This Dividend King Yielding 3X the S&P 500 Looks Like a Buy Right Now.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-king-yielding-3x-p-083500499.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 306
+  },
+  {
+    "title": "Is Kohl's Stock A Buy Right Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kohls-stock-buy-now-081226198.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 307
+  },
+  {
+    "title": "Target (TGT) Unveiled A New Manhattan Flagship Level",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/target-tgt-unveiled-manhattan-flagship-021227966.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 308
+  },
+  {
+    "title": "What Intel, Boeing, Nike Have In Common With Each Other \u2014 And Apple",
+    "url": "https://finance.yahoo.com/m/901193fa-8922-3df6-9417-b947a80babdc/what-intel%2C-boeing%2C-nike-have.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 309
+  },
+  {
+    "title": "Are You Overpaying For Target Stock Versus Its Rivals?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/overpaying-target-stock-versus-rivals-175903683.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 310
+  },
+  {
+    "title": "Ulta Beauty's website traffic just surged a whopping 48%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beautys-website-traffic-just-173300543.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 311
+  },
+  {
+    "title": "The Biggest Price Hike in 49 Years Just Hit a Christmas Staple \u2014 and Families Could Feel It This Holiday Season",
+    "url": "https://finance.yahoo.com/economy/articles/biggest-price-hike-49-years-143510170.html",
+    "ticker": "TGT",
+    "source": "yahoo_finance",
+    "id": 312
+  },
+  {
+    "title": "Home Depot's latest move is good for customers and the U.S. economy",
+    "url": "https://finance.yahoo.com/economy/articles/home-depots-latest-move-good-141700113.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 313
+  },
+  {
+    "title": "The 10-Year Yield Just Fell Below 5% as Investors Fled AI Stocks",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/10-yield-just-fell-below-111507754.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 314
+  },
+  {
+    "title": "One Number That Makes Home Depot A Buy",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/one-number-makes-home-depot-191930737.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 315
+  },
+  {
+    "title": "What Does The Market Want From Lowe's Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/does-market-want-lowes-stock-181921101.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 316
+  },
+  {
+    "title": "Tractor Supply taps former Home Depot exec as chief technology, digital officer",
+    "url": "https://finance.yahoo.com/technology/articles/tractor-supply-taps-former-home-154300906.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 317
+  },
+  {
+    "title": "Home Depot (HD) Earnings Revisions Bring Its Valuation Story Back Into Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-earnings-revisions-141727558.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 318
+  },
+  {
+    "title": "For retailers who use Flock cameras, brand reputation may be at risk",
+    "url": "https://finance.yahoo.com/media-advertising/articles/retailers-flock-cameras-brand-reputation-140000160.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 319
+  },
+  {
+    "title": "The Home Depot Foundation Pledges $1 Billion to Veteran Causes by 2032",
+    "url": "https://finance.yahoo.com/real-estate/articles/home-depot-foundation-pledges-1-130000850.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 320
+  },
+  {
+    "title": "What Could Surprise Costco Stock Investors On The Upside?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-surprise-costco-stock-investors-111325108.html",
+    "ticker": "HD",
+    "source": "yahoo_finance",
+    "id": 321
+  },
+  {
+    "title": "Athletic Apparel Stocks Fall as Retail Selling Spreads: Lululemon and Under Armour Drop 4%, Nike Retreats 2%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/athletic-apparel-stocks-fall-retail-175925059.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 322
+  },
+  {
+    "title": "Are You Overpaying For Nike Stock Versus Its Rivals?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/overpaying-nike-stock-versus-rivals-174351759.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 323
+  },
+  {
+    "title": "Shuffle Board: Puma Names CCO, Calvin Klein Taps Product Chief",
+    "url": "https://finance.yahoo.com/media-advertising/articles/shuffle-board-puma-names-cco-170848111.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 324
+  },
+  {
+    "title": "Loop Industries Inc (LOOP) (Q2 2027) Earnings Call Highlights: Downsized India Plant, Tight ...",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/loop-industries-inc-loop-q2-170321413.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 325
+  },
+  {
+    "title": "What Changed For Lululemon Stock, And What Did Not?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/changed-lululemon-stock-did-not-154727039.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 326
+  },
+  {
+    "title": "Nike\u2019s New CFO Brings \u2018Healthy Realism\u2019 to Financial Projections, Analysts Say",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nike-cfo-brings-healthy-realism-143335380.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 327
+  },
+  {
+    "title": "Dick's (DKS) stock trades up, here is why",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dicks-dks-stock-trades-why-014953523.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 328
+  },
+  {
+    "title": "Up 17% Off Its 52-Week Low, Is Nike's Turnaround Finally Gaining Steam?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/17-off-52-week-low-212500446.html",
+    "ticker": "NKE",
+    "source": "yahoo_finance",
+    "id": 329
+  },
+  {
+    "title": "Polen Focus Growth Strategy Trims Starbucks Corporation (SBUX) as Turnaround Progress Enters Valuation",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/polen-focus-growth-strategy-trims-150207918.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 330
+  },
+  {
+    "title": "Chipotle Gears Up for Q3 Earnings: Can It Overcome Cost Pressures?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/chipotle-gears-q3-earnings-overcome-143500592.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 331
+  },
+  {
+    "title": "Is Owning 3,968 Shares of Starbucks Worth It for $10,000 in Yearly Dividend Income?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/owning-3-968-shares-starbucks-142500997.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 332
+  },
+  {
+    "title": "Cheesecake Factory to Post Q3 Earnings: What's in the Cards?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cheesecake-factory-post-q3-earnings-134900544.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 333
+  },
+  {
+    "title": "From Starbucks to the CDC: Alliance to Stop Foodborne Illness Names 40 Food Safety Professionals Under 40, Class Of 2026",
+    "url": "https://finance.yahoo.com/healthcare/articles/starbucks-cdc-alliance-stop-foodborne-125200662.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 334
+  },
+  {
+    "title": "Here's What to Expect From Starbucks\u2019 Next Earnings Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/heres-expect-starbucks-next-earnings-122516311.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 335
+  },
+  {
+    "title": "Mizuho Adjusts Price Target on Starbucks to $105 From $115",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-adjusts-price-target-starbucks-093003227.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 336
+  },
+  {
+    "title": "What Could Lift Starbucks Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/could-lift-starbucks-stock-080348731.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 337
+  },
+  {
+    "title": "Alsea SAB de CV (ALSSF) Q3 2026 Earnings Call Highlights: Free Cash Flow Swings Positive, ...",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alsea-sab-cv-alssf-q3-050537235.html",
+    "ticker": "SBUX",
+    "source": "yahoo_finance",
+    "id": 338
+  },
+  {
+    "title": "Why Is McDonald's (MCD) Challenging Tokenized Trading Of Its Shares?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-mcdonalds-mcd-challenging-tokenized-160817030.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 339
+  },
+  {
+    "title": "McDonald's Has Lost a Fifth of Its Value in 2026. Is It Time to Buy?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-lost-fifth-value-2026-104700131.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 340
+  },
+  {
+    "title": "McDonald's Q3 2026 Earnings: What to Expect",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-q3-2026-earnings-expect-190032559.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 341
+  },
+  {
+    "title": "Unusual Options Activity: LEAPS Offer Low-Cost Rebound Bets on 2 Beaten-Down Consumer Stocks",
+    "url": "https://finance.yahoo.com/markets/options/articles/unusual-options-activity-leaps-offer-173002112.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 342
+  },
+  {
+    "title": "Microsoft, Google parent and McDonald\u2019s protest new trading plan",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/microsoft-google-parent-mcdonald-protest-170000383.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 343
+  },
+  {
+    "title": "McDonald's Is Crowned a Dividend King. Is Owning 65 Shares Worth It for $500 in Yearly Dividend Income?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-crowned-dividend-king-owning-162400470.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 344
+  },
+  {
+    "title": "TOUS les JOURS Appoints Max Gallegos Chief Marketing Officer to Lead North American Growth",
+    "url": "https://finance.yahoo.com/media-advertising/articles/tous-les-jours-appoints-max-130000131.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 345
+  },
+  {
+    "title": "McDonald\u2019s vs. Yum! Brands: Which Fast Food Dividend Has More Room to Grow?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-vs-yum-brands-fast-121540663.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 346
+  },
+  {
+    "title": "4 Companies Just Boosted Their Dividends. Not All the Raises Are Equally Safe",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/4-companies-just-boosted-dividends-111522204.html",
+    "ticker": "MCD",
+    "source": "yahoo_finance",
+    "id": 347
+  },
+  {
+    "title": "Can Netflix Stock Fall 50%?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-fall-50-080241302.html",
+    "ticker": "DIS",
+    "source": "yahoo_finance",
+    "id": 348
+  },
+  {
+    "title": "What JAKKS Pacific (JAKK) Said on Its Q3 Earnings Call",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jakks-pacific-jakk-said-q3-230408777.html",
+    "ticker": "DIS",
+    "source": "yahoo_finance",
+    "id": 349
+  },
+  {
+    "title": "Stock Market Today, Oct. 22: Netflix Rises as Investors Capitalize on Post-Earnings Sell-Off",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-22-221242955.html",
+    "ticker": "DIS",
+    "source": "yahoo_finance",
+    "id": 350
+  },
+  {
+    "title": "Walt Disney (DIS) Rises As Market Takes a Dip: Key Facts",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-rises-market-204502127.html",
+    "ticker": "DIS",
+    "source": "yahoo_finance",
+    "id": 351
+  },
+  {
+    "title": "Netflix Stock Has a Long-Term Opportunity That Short-Term Investors May Be Missing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-long-term-opportunity-173046120.html",
+    "ticker": "DIS",
+    "source": "yahoo_finance",
+    "id": 352
+  },
+  {
+    "title": "Meta Vs. Apple: Divergent Edge AI Inference Strategies and Spending",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-vs-apple-divergent-edge-164526933.html",
+    "ticker": "DIS",
+    "source": "yahoo_finance",
+    "id": 353
+  },
+  {
+    "title": "Netflix Has Another Tough Month, Dropping 10%: This Wall Street Pro Says 90% Gains Lie Ahead",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-another-tough-month-dropping-144546706.html",
+    "ticker": "DIS",
+    "source": "yahoo_finance",
+    "id": 354
+  },
+  {
+    "title": "Universal Studios' promises cheaper prices, Epic Universe changes",
+    "url": "https://finance.yahoo.com/media-advertising/articles/universal-studios-disney-world-problem-150700072.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 355
+  },
+  {
+    "title": "Comcast (CMCSA) Stock May Be A Bargain Following Its Planned Split",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-stock-may-bargain-171628998.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 356
+  },
+  {
+    "title": "Comcast Offers 'Limited' Upside Potential, Oppenheimer Says",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-offers-apos-limited-apos-171056820.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 357
+  },
+  {
+    "title": "CMCSA Q3 2026 deep dive: cost transformation and wireless offset broadband softness",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cmcsa-q3-2026-deep-dive-132839028.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 358
+  },
+  {
+    "title": "New Street Adjusts Price Target on Comcast to $28 From $30",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/street-adjusts-price-target-comcast-123522648.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 359
+  },
+  {
+    "title": "CMCSA Q3 Earnings Call Highlights Broadband and Restructuring",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cmcsa-q3-earnings-call-highlights-121500071.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 360
+  },
+  {
+    "title": "Deutsche Bank Adjusts Comcast Price Target to $31 From $32, Maintains Buy Rating",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-adjusts-comcast-price-120731118.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 361
+  },
+  {
+    "title": "TD Cowen Adjusts Price Target on Comcast to $36 From $39",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-adjusts-price-target-110246467.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 362
+  },
+  {
+    "title": "Company News for Oct 23, 2026",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-oct-23-2026-082100335.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 363
+  },
+  {
+    "title": "The Single Most Important Metric For T-Mobile Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/single-most-important-metric-t-080350013.html",
+    "ticker": "CMCSA",
+    "source": "yahoo_finance",
+    "id": 364
+  },
+  {
+    "title": "SpaceX Just Made Cell Towers Cool Again. Verizon, AT&T, and T-Mobile Are Paying the Price",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-made-cell-towers-185101621.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 365
+  },
+  {
+    "title": "KDC Pursues $3.5B In Financing For AT&T's Huge HQ Campus In Plano",
+    "url": "https://finance.yahoo.com/real-estate/articles/kdc-pursues-3-5b-financing-172722927.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 366
+  },
+  {
+    "title": "KDC Seeks $3.5B Credit Tenant Lease Debt for AT&T HQ",
+    "url": "https://finance.yahoo.com/real-estate/articles/kdc-seeks-3-5b-credit-172604688.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 367
+  },
+  {
+    "title": "AT&T Stock Sinks on Subscriber and SpaceX Worries. Is the Stock a Buy on the Dip?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/t-stock-sinks-subscriber-spacex-164300913.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 368
+  },
+  {
+    "title": "Stock Market Midday, Oct. 23: Energy Surges on Oil Price Spike, Cybersecurity Stocks Gain",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-oct-23-163938103.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 369
+  },
+  {
+    "title": "SpaceX wants to be America's fourth phone carrier \u2014 tower owners are cashing in",
+    "url": "https://finance.yahoo.com/markets/article/spacex-wants-to-be-americas-fourth-phone-carrier--tower-owners-are-cashing-in-162059593.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 370
+  },
+  {
+    "title": "Starlink Is Years Away From Competing With AT&T and Verizon, Citi Says\u2014but It Might Move Faster",
+    "url": "https://finance.yahoo.com/m/e64322b9-c3f9-3509-b48d-84ad8f1056b2/starlink-is-years-away-from.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 371
+  },
+  {
+    "title": "Why T-Mobile US Stock Dropped Today",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-t-mobile-us-stock-155530628.html",
+    "ticker": "T",
+    "source": "yahoo_finance",
+    "id": 372
+  },
+  {
+    "title": "Verizon Communications (VZ) Seeks FCC Signoff To End Copper Landlines As Review Widens",
+    "url": "https://finance.yahoo.com/technology/articles/verizon-communications-vz-seeks-fcc-160638506.html",
+    "ticker": "VZ",
+    "source": "yahoo_finance",
+    "id": 373
+  },
+  {
+    "title": "The Same $900,000 Dividend Portfolio Could Leave You Thousands More in a Roth IRA",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/same-900-000-dividend-portfolio-154558586.html",
+    "ticker": "VZ",
+    "source": "yahoo_finance",
+    "id": 374
+  },
+  {
+    "title": "5 Telecom Stocks That Can Survive the Musk Threat\u2014and 1 Reason to Buy SpaceX",
+    "url": "https://finance.yahoo.com/m/5d5993db-bb97-37f5-99e0-13383a94b4a2/5-telecom-stocks-that-can.html",
+    "ticker": "VZ",
+    "source": "yahoo_finance",
+    "id": 375
+  },
+  {
+    "title": "AT&T Froze Its Dividend After a 2022 Cut. Is Verizon the Better Income Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/t-froze-dividend-2022-cut-144509242.html",
+    "ticker": "VZ",
+    "source": "yahoo_finance",
+    "id": 376
+  },
+  {
+    "title": "GA-ASI Partnering With Spirit Defense For FQ-42 CCA Production",
+    "url": "https://finance.yahoo.com/technology/articles/ga-asi-partnering-spirit-defense-160000075.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 377
+  },
+  {
+    "title": "Archer Aviation Launches Air Taxi Fleets in Texas",
+    "url": "https://finance.yahoo.com/m/c6545832-b321-3d63-ae61-5a8e75817621/archer-aviation-launches-air.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 378
+  },
+  {
+    "title": "One Unsettled Question Sits Under GE Aerospace Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/one-unsettled-sits-under-ge-140820499.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 379
+  },
+  {
+    "title": "Great News for Boeing Investors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/great-news-boeing-investors-130800069.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 380
+  },
+  {
+    "title": "Boeing (BA) Stock Looks About Right As MAX 10 Certification Lands",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-looks-max-111734197.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 381
+  },
+  {
+    "title": "Interview: REDLattice CEO Boyd, Bold Eagle CEO Baker Plus IPO Edge Valuation Analysis",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/interview-redlattice-ceo-boyd-bold-110055553.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 382
+  },
+  {
+    "title": "Boeing (BA) Declines More Than Market: Some Information for Investors",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-declines-more-market-204502319.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 383
+  },
+  {
+    "title": "AerSale\u00ae Announces Date for Third Quarter 2026 Earnings Release Conference Call",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aersale-announces-date-third-quarter-204000226.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 384
+  },
+  {
+    "title": "Hexcel Q3 Earnings Call Highlights",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/hexcel-q3-earnings-call-highlights-200435966.html",
+    "ticker": "BA",
+    "source": "yahoo_finance",
+    "id": 385
+  },
+  {
+    "title": "Caterpillar (CAT) On Its $1b North Carolina Expansion And The Undervalued Narrative",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-1b-north-carolina-171431339.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 386
+  },
+  {
+    "title": "4 Industrial Stocks Set to Outshine Q3 Earnings Estimates",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/4-industrial-stocks-set-outshine-143100984.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 387
+  },
+  {
+    "title": "What to Expect From Caterpillar's Next Quarterly Earnings Report",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/expect-caterpillars-next-quarterly-earnings-133402234.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 388
+  },
+  {
+    "title": "What Has The Market Missed In Caterpillar Stock's Drop?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/market-missed-caterpillar-stocks-drop-132253929.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 389
+  },
+  {
+    "title": "Pre-Markets Remain Spooked by AI Investment Capacity",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-remain-spooked-ai-132100260.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 390
+  },
+  {
+    "title": "GE Vernova Stock Rebounds, AI Sell-Off Gives Way To Earnings Focus",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-rebounds-ai-131107312.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 391
+  },
+  {
+    "title": "State Street Industrial Select Sector SPDR (XLI) Adds Caterpillar and GE on Oct. 21",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-sector-110500719.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 392
+  },
+  {
+    "title": "GE Vernova Stock Is Down 10%. Blame Meta for AI Financing Fears.",
+    "url": "https://finance.yahoo.com/m/e4c2f7ec-18d9-36a7-aeb7-f9dba40251f8/ge-vernova-stock-is-down-10%25..html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 393
+  },
+  {
+    "title": "This is No Ordinary Tech Selloff",
+    "url": "https://finance.yahoo.com/m/77e30cea-28d6-3731-8b89-94a96d5b1a5e/this-is-no-ordinary-tech.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 394
+  },
+  {
+    "title": "What Really Drove Deere Stock Higher?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/really-drove-deere-stock-higher-155035689.html",
+    "ticker": "CAT",
+    "source": "yahoo_finance",
+    "id": 395
+  },
+  {
+    "title": "Why Nearly 25% of the Country Is Still Watching \u2018Seinfeld\u2019",
+    "url": "https://finance.yahoo.com/m/c7bb3632-8c52-368d-89c1-cd320d6eb4dd/why-nearly-25%25-of-the-country.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 396
+  },
+  {
+    "title": "Why GE Aerospace Stock Keeps Going Down",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-ge-aerospace-stock-keeps-165944006.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 397
+  },
+  {
+    "title": "Gas Turbine Technology Patent Landscape and Market Intelligence Report, 2010-2024 | $34.75 Billion Market by 2032 Spurs Low-Emission and Manufacturing Innovation",
+    "url": "https://finance.yahoo.com/energy/articles/gas-turbine-technology-patent-landscape-141100183.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 398
+  },
+  {
+    "title": "GE's Defense & Propulsion Strength Seems Firm: More Upside Ahead?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ges-defense-propulsion-strength-seems-134400573.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 399
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Amazon.com, GE Aerospace and TotalEnergies",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amazon-071400279.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 400
+  },
+  {
+    "title": "Top Research Reports for Amazon, GE Aerospace & TotalEnergies",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amazon-ge-204100398.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 401
+  },
+  {
+    "title": "Honeywell Aerospace (HONA) vs. GE and RTX: Can a High-Margin Aerospace Platform Deliver a Post-Spin-Off Re-Rating?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-vs-ge-202039010.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 402
+  },
+  {
+    "title": "CROWN HOLDINGS, INC. ELECTS WAYNE SMITH TO ITS BOARD OF DIRECTORS",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crown-holdings-inc-elects-wayne-201500989.html",
+    "ticker": "GE",
+    "source": "yahoo_finance",
+    "id": 403
+  },
+  {
+    "title": "1 cash-producing stock worth investigating and 2 we turn down",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-worth-171239520.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 404
+  },
+  {
+    "title": "\u2018The UPS Man\u2019 Review: All in the Delivery",
+    "url": "https://finance.yahoo.com/m/1c60b490-5790-38f1-8a5a-def11bae6d1f/%E2%80%98the-ups-man%E2%80%99-review%3A-all-in.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 405
+  },
+  {
+    "title": "Where Did UPS Fall Behind FedEx?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/where-did-ups-fall-behind-161649505.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 406
+  },
+  {
+    "title": "C.H. Robinson Gears Up for Q3 Earnings: What's in Store for the Stock?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/c-h-robinson-gears-q3-144100181.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 407
+  },
+  {
+    "title": "Enterprise Products Covers Its Payout 1.9 Times. These 4 Dividend Stocks Also Deserve a Look",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-products-covers-payout-1-164529202.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 408
+  },
+  {
+    "title": "UPS automates 4 additional facilities ahead of peak shipping season",
+    "url": "https://finance.yahoo.com/technology/articles/ups-automates-4-additional-facilities-153817724.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 409
+  },
+  {
+    "title": "Exploring Analyst Estimates for UPS (UPS) Q3 Earnings, Beyond Revenue and EPS",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/exploring-analyst-estimates-ups-ups-121504667.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 410
+  },
+  {
+    "title": "Delta Air Lines Shares Rose Even As Profit Fell",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-shares-rose-071354102.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 411
+  },
+  {
+    "title": "United Parcel Service (UPS) Just Gave Investors Something To Think About",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/united-parcel-ups-just-gave-031720856.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 412
+  },
+  {
+    "title": "UPS Volume Is Still Falling. Does Better Pricing Make Up For It?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ups-volume-still-falling-does-175747117.html",
+    "ticker": "UPS",
+    "source": "yahoo_finance",
+    "id": 413
+  },
+  {
+    "title": "Tesla Continues to Falter and Lose Value: This Renowned Analyst Predicts 60% Returns Soon",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-continues-falter-lose-value-164538862.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 414
+  },
+  {
+    "title": "Stellantis at Record Low: Turnaround Play or Value Trap?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-record-low-turnaround-play-160514308.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 415
+  },
+  {
+    "title": "Stellantis Sinks 8% as Q3 Report Nears; Ford Drops 4%, General Motors Slides 3%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-sinks-8-q3-report-145613447.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 416
+  },
+  {
+    "title": "Ford Takes A Beating In Europe",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ford-takes-beating-europe-142802956.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 417
+  },
+  {
+    "title": "Ford Motor (F) Faces Fresh Fuel Pump Legal Risk As Undervalued Narrative Holds",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-f-faces-fresh-141247950.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 418
+  },
+  {
+    "title": "Exploring Analyst Estimates for Ford Motor (F) Q3 Earnings, Beyond Revenue and EPS",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/exploring-analyst-estimates-ford-motor-121506721.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 419
+  },
+  {
+    "title": "Tesla's Automotive Revenue Fell 3%, and Energy Generation and Storage Tumbled 16%. Should Investors Still View Tesla as a Car Company?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-automotive-revenue-fell-3-070500897.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 420
+  },
+  {
+    "title": "Why Trump Can't Afford to Lose The Rare Earth Race",
+    "url": "https://finance.yahoo.com/energy/articles/why-trump-cant-afford-lose-020000523.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 421
+  },
+  {
+    "title": "Market Chatter: Ford Motor Seeks to Overturn $13.2 Million InterMotive Verdict",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ford-motor-seeks-180659679.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 422
+  },
+  {
+    "title": "Why Rivian's R2 Could Be Worth Far More Than Its Sales Numbers Suggest",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-rivians-r2-could-worth-135000682.html",
+    "ticker": "F",
+    "source": "yahoo_finance",
+    "id": 423
+  },
+  {
+    "title": "Sector Update: Consumer Stocks Fall Friday Afternoon",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-fall-friday-175527479.html",
+    "ticker": "GM",
+    "source": "yahoo_finance",
+    "id": 424
+  },
+  {
+    "title": "Update: Market Chatter: GM Terminates Rare-Earth Magnet Supply Agreement with VAC",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-gm-terminates-rare-175101453.html",
+    "ticker": "GM",
+    "source": "yahoo_finance",
+    "id": 425
+  },
+  {
+    "title": "General Motors (GM) Is Expanding Its Hybrid Lineup",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-expanding-hybrid-151932686.html",
+    "ticker": "GM",
+    "source": "yahoo_finance",
+    "id": 426
+  },
+  {
+    "title": "Earnings live updates: All eyes on Musk and Meta as Q3 earnings rev up",
+    "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-all-eyes-on-musk-and-meta-as-q3-earnings-roll-on-134152191.html",
+    "ticker": "GM",
+    "source": "yahoo_finance",
+    "id": 427
+  },
+  {
+    "title": "CFOs On the Move: Week ending Oct. 23",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cfos-move-week-ending-oct-132903038.html",
+    "ticker": "GM",
+    "source": "yahoo_finance",
+    "id": 428
+  },
+  {
+    "title": "QuantumScape's Q3 Loss Narrows on Lower Operating Costs",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/quantumscapes-q3-loss-narrows-lower-124700364.html",
+    "ticker": "GM",
+    "source": "yahoo_finance",
+    "id": 429
+  },
+  {
+    "title": "MP vs. LYSDY: Which Rare Earth Stock Has an Edge Right Now?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mp-vs-lysdy-rare-earth-123900916.html",
+    "ticker": "GM",
+    "source": "yahoo_finance",
+    "id": 430
+  },
+  {
+    "title": "Coca-Cola (KO) Stock Stays Near Fair Value Following A Big Restaurant Win",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-stock-stays-151828001.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 431
+  },
+  {
+    "title": "PepsiCo Yields 4%. Is Its Dividend Still Safe After Lowering Guidance?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-yields-4-dividend-still-141544880.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 432
+  },
+  {
+    "title": "Inside Coca-Cola\u2019s marketing transformation amid agency roster shake-up",
+    "url": "https://finance.yahoo.com/media-advertising/articles/inside-coca-cola-marketing-transformation-133300887.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 433
+  },
+  {
+    "title": "Sector Update: Consumer Stocks Decline Pre-Bell Friday",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-pre-131108108.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 434
+  },
+  {
+    "title": "Danone joins Coca-Cola, Nestl\u00e9 in agreeing to tweak recycling claims",
+    "url": "https://finance.yahoo.com/news/danone-joins-coca-cola-nestl-122857616.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 435
+  },
+  {
+    "title": "Embotelladora Andina SA's Dividend Analysis",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/embotelladora-andina-sas-dividend-analysis-110402489.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 436
+  },
+  {
+    "title": "PepsiCo renews deal to supply Taco Bell",
+    "url": "https://finance.yahoo.com/news/pepsico-renews-deal-supply-taco-100033141.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 437
+  },
+  {
+    "title": "Coca-Cola Revamps Worldwide Marketing Structure",
+    "url": "https://finance.yahoo.com/media-advertising/articles/coca-cola-revamps-worldwide-marketing-080832876.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 438
+  },
+  {
+    "title": "Why Did AAPL, KO, KDP Stocks Hit 52-Week Highs Today?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-aapl-ko-kdp-032322722.html",
+    "ticker": "KO",
+    "source": "yahoo_finance",
+    "id": 439
+  },
+  {
+    "title": "PepsiCo (PEP) Renews Taco Bell Deal, Is The Stock A Bargain?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-renews-taco-bell-171432568.html",
+    "ticker": "PEP",
+    "source": "yahoo_finance",
+    "id": 440
+  },
+  {
+    "title": "Unusual Options Volume Report: PepsiCo Stock",
+    "url": "https://finance.yahoo.com/markets/options/articles/unusual-options-volume-report-pepsico-154034920.html",
+    "ticker": "PEP",
+    "source": "yahoo_finance",
+    "id": 441
+  },
+  {
+    "title": "Here is What to Know Beyond Why PepsiCo, Inc. (PEP) is a Trending Stock",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-pepsico-inc-120003330.html",
+    "ticker": "PEP",
+    "source": "yahoo_finance",
+    "id": 442
+  },
+  {
+    "title": "Zacks Investment Ideas feature highlights: Meta Platforms and Pepsi",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-062000268.html",
+    "ticker": "PEP",
+    "source": "yahoo_finance",
+    "id": 443
+  },
+  {
+    "title": "PepsiCo Renews Partnership With Taco Bell for 11 More Years. Here\u2019s What Investors Need to Know.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-renews-partnership-taco-bell-031757477.html",
+    "ticker": "PEP",
+    "source": "yahoo_finance",
+    "id": 444
+  },
+  {
+    "title": "Keurig Dr Pepper (KDP) vs. KO and PEP: Can the JDE Peet\u2019s Acquisition and Planned Split Unlock Value Despite Rising Debt?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-vs-201544971.html",
+    "ticker": "PEP",
+    "source": "yahoo_finance",
+    "id": 445
+  },
+  {
+    "title": "Procter & Gamble Stocks Decrease 2.62% as $1.4 Billion Cost Burden Grows",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-stocks-decrease-2-183308206.html",
+    "ticker": "PG",
+    "source": "yahoo_finance",
+    "id": 446
+  },
+  {
+    "title": "Procter & Gamble's Topline Fundamentals Encouraging, RBC Capital Markets Says",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-apos-topline-fundamentals-160020920.html",
+    "ticker": "PG",
+    "source": "yahoo_finance",
+    "id": 447
+  },
+  {
+    "title": "Is Procter & Gamble a Buy After Its Latest Earnings Report?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-buy-latest-earnings-150401165.html",
+    "ticker": "PG",
+    "source": "yahoo_finance",
+    "id": 448
+  },
+  {
+    "title": "P&G\u2019s Q1 Results Draw Price-Target Hikes As Analysts Cite Stronger Underlying Performance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-g-q1-results-draw-143010433.html",
+    "ticker": "PG",
+    "source": "yahoo_finance",
+    "id": 449
+  },
+  {
+    "title": "PG Q3 deep dive: market share gains and product innovation offset input cost headwinds",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pg-q3-deep-dive-market-130439082.html",
+    "ticker": "PG",
+    "source": "yahoo_finance",
+    "id": 450
+  },
+  {
+    "title": "PG Q1 Earnings Call Highlights Growth Amid Rising Cost Pressures",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/pg-q1-earnings-call-highlights-130000792.html",
+    "ticker": "PG",
+    "source": "yahoo_finance",
+    "id": 451
+  },
+  {
+    "title": "Want Rising Income in Retirement? Invest in These 4 Dividend Growers Whose Free Cash Flow Covers Every Payout",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/want-rising-income-retirement-invest-125126938.html",
+    "ticker": "PG",
+    "source": "yahoo_finance",
+    "id": 452
+  },
+  {
+    "title": "Canadian dollar holds near one-month high as rate outlook supports loonie",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/canadian-dollar-holds-near-one-135009404.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 453
+  },
+  {
+    "title": "Colgate-Palmolive (CL) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/colgate-palmolive-cl-earnings-expected-130002483.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 454
+  },
+  {
+    "title": "3 Defensive Stocks to Buy as the AI Selloff Rattles Wall Street",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-defensive-stocks-buy-ai-113002744.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 455
+  },
+  {
+    "title": "FTSE 100: Stocks extend fall, set to snap 2-week gain on retail slump, oil",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-slip-081110601.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 456
+  },
+  {
+    "title": "Bitcoin flat around $82k as tech rout, rising oil dent risk",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-below-82k-tech-074457471.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 457
+  },
+  {
+    "title": "Oil prices goes past $116 and near Iran high amid Mideast supply jitters",
+    "url": "https://finance.yahoo.com/energy/articles/oil-prices-cool-5-month-011137769.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 458
+  },
+  {
+    "title": "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
+    "url": "https://finance.yahoo.com/markets/currencies/articles/canadian-dollar-strengthens-oil-prices-200010191.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 459
+  },
+  {
+    "title": "Will Colgate-Palmolive (CL) Beat Estimates Again in Its Next Earnings Report?",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/colgate-palmolive-cl-beat-estimates-151002477.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 460
+  },
+  {
+    "title": "Colgate-Palmolive Expected to Post In-Line Q3 Results, UBS Says",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/colgate-palmolive-expected-post-line-185423120.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 461
+  },
+  {
+    "title": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/unconfirmed-qatar-pakistan-iran-peace-154611349.html",
+    "ticker": "CL",
+    "source": "yahoo_finance",
+    "id": 462
+  }
+]

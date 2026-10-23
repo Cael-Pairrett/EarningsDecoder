@@ -1,0 +1,31 @@
+# secrets
+.env
+.env.local
+.env.*.local
+
+# python
+api/.venv/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# node / next
+web/node_modules/
+web/.next/
+web/out/
+web/.turbo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# os / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# optional local scratch
+*.log
+.cache/

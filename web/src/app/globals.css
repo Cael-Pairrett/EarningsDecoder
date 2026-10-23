@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0b1220;
+  --panel: #121a2b;
+  --panel-2: #182338;
+  --border: #2a3854;
+  --text: #e8eefc;
+  --muted: #9aabd0;
+  --accent: #5eead4;
+  --accent-2: #60a5fa;
+  --good: #34d399;
+  --bad: #f87171;
+  --warn: #fbbf24;
+}
+
+body {
+  color: var(--text);
+  background:
+    radial-gradient(1200px 600px at 10% -10%, #1a2a4a 0%, transparent 55%),
+    radial-gradient(900px 500px at 90% 0%, #12353a 0%, transparent 50%),
+    var(--bg);
+  min-height: 100vh;
+}
+
+.prose-answer a {
+  color: var(--accent-2);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-answer a:hover {
+  color: var(--accent);
+}
