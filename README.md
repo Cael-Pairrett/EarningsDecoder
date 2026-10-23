@@ -2,7 +2,6 @@
 
 A small stock & earnings **RAG** app: ask a question, retrieve the top 5 matching headlines from a local FAISS index, get a Grok answer from **titles only**, then fetch those pages and get a second answer from the **page content** — shown side by side.
 
-Built as a homework prototype (not a notebook). Repo: public demo you can clone and run.
 
 ## What it does
 
